@@ -166,7 +166,7 @@ jupyter notebook Data_Cleaning.ipynb
 
 ### Tableau Dashboard:
 - Open `Messy_Employee_Data_Dashboard.twb` in Tableau Desktop
-- Or view on Tableau Public — [](https://public.tableau.com/views/MessyEmployeeDataDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Or view on Tableau Public — (https://public.tableau.com/views/MessyEmployeeDataDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
